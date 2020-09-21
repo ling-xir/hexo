@@ -72,7 +72,7 @@ body {
   font-size: 14px;
   color: #33333d;
   font-family: 'Hiragino Sans GB', 'Hiragino Sans GB W3', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
-  background: #fff url("") fixed no-repeat;
+  background: #fff url("/images/icons/bg.png") fixed no-repeat;
 }
 body a {
   color: #33333d;
